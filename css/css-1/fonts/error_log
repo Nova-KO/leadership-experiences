@@ -1,0 +1,49 @@
+[13-Jan-2025 04:53:33 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 1745
+[13-Jan-2025 04:53:33 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php:780
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(641): PopError(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(1749): set_blog_id(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 780
+[13-Jan-2025 04:53:35 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 1745
+[13-Jan-2025 04:53:35 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php:780
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(641): PopError(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(1749): set_blog_id(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 780
+[13-Jan-2025 04:55:37 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 1745
+[13-Jan-2025 04:55:37 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php:780
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(641): PopError(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(1749): set_blog_id(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 780
+[13-Jan-2025 04:56:09 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 1745
+[13-Jan-2025 04:56:09 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php:780
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(641): PopError(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(1749): set_blog_id(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 780
+[13-Jan-2025 04:56:41 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 1745
+[13-Jan-2025 04:56:41 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php:780
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(641): PopError(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(1749): set_blog_id(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 780
+[13-Jan-2025 04:56:43 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 1745
+[13-Jan-2025 04:56:43 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php:780
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(641): PopError(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(1749): set_blog_id(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 780
+[13-Jan-2025 04:56:44 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 1745
+[13-Jan-2025 04:56:44 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php:780
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(641): PopError(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php(1749): set_blog_id(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/css/css-1/fonts/wp-login.php on line 780

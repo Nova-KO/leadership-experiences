@@ -1,0 +1,42 @@
+[08-Dec-2024 07:21:00 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php:1244
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(876): get_user_metavalues(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(1351): register_panel_type(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php on line 1244
+[08-Dec-2024 07:21:31 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php:1244
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(876): get_user_metavalues(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(1351): register_panel_type(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php on line 1244
+[08-Dec-2024 07:21:32 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php:1244
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(876): get_user_metavalues(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(1351): register_panel_type(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php on line 1244
+[08-Dec-2024 07:21:33 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php:1244
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(876): get_user_metavalues(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(1351): register_panel_type(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php on line 1244
+[08-Dec-2024 07:21:34 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php:1244
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(876): get_user_metavalues(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(1351): register_panel_type(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php on line 1244
+[08-Dec-2024 07:21:35 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php:1244
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(876): get_user_metavalues(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(1351): register_panel_type(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php on line 1244
+[08-Dec-2024 07:21:37 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php:1244
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(876): get_user_metavalues(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php(1351): register_panel_type(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/owl.carousel/assets/admin-ajax.php on line 1244

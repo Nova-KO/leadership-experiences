@@ -1,0 +1,70 @@
+[29-Dec-2024 08:58:16 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:16 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:18 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:18 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:19 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:19 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:21 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:24 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:24 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:24 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:24 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:25 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:25 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:26 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:26 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:28 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:28 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998
+[29-Dec-2024 08:58:29 UTC] PHP Deprecated:  strrpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 1297
+[29-Dec-2024 08:58:29 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php:998
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(915): wp_theme_update_rows(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php(1416): migrate_pattern_categories(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/rs-plugin/php/gtmdblio.php on line 998

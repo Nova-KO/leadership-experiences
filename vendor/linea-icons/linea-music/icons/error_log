@@ -1,0 +1,42 @@
+[08-Dec-2024 07:20:45 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php:139
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(319): fill_query_vars(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(964): remove_indirect_properties(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php on line 139
+[08-Dec-2024 07:20:46 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php:139
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(319): fill_query_vars(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(964): remove_indirect_properties(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php on line 139
+[08-Dec-2024 07:20:47 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php:139
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(319): fill_query_vars(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(964): remove_indirect_properties(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php on line 139
+[08-Dec-2024 07:20:48 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php:139
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(319): fill_query_vars(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(964): remove_indirect_properties(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php on line 139
+[08-Dec-2024 07:20:49 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php:139
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(319): fill_query_vars(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(964): remove_indirect_properties(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php on line 139
+[08-Dec-2024 07:20:56 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php:139
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(319): fill_query_vars(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(964): remove_indirect_properties(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php on line 139
+[08-Dec-2024 07:20:57 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php:139
+Stack trace:
+#0 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(319): fill_query_vars(NULL, false)
+#1 /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php(964): remove_indirect_properties(false)
+#2 {main}
+  thrown in /home/procommerce/public_html/leadership-experiences.com/vendor/linea-icons/linea-music/icons/admin-ajax.php on line 139
