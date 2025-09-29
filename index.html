@@ -25,6 +25,8 @@
 	<meta name="google-site-verification" content="Jl8tw08qN4eoHo4CFDQmffLPJ1CfksnE0y5Y1RSjltM" />
 
 	<!-- Web Fonts  -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
 
 	<!-- Vendor CSS -->
@@ -44,7 +46,6 @@
 	<link rel="stylesheet" type="text/css" href="css/css-1/skins/skin-4.css">
 
 	<!-- Current Page CSS -->
-	<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css">
 
 	<!-- Skin CSS -->
 	<link id="skinCSS" rel="stylesheet" href="css/css-1/skins/default.css">
@@ -53,7 +54,7 @@
 	<link rel="stylesheet" href="css/css-1/custom.css">
 
 	<!-- Head Libs -->
-	<script src="vendor/modernizr/modernizr.min.js"></script>
+	<script src="vendor/modernizr/modernizr.min.js" defer></script>
 
 	<link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -98,6 +99,29 @@
 </head>
 
 <body data-plugin-page-transition>
+	<!-- Page Loader -->
+	<div id="page-loader" aria-hidden="true" style="position:fixed;inset:0;background:#ffffff;z-index:9999;display:flex;align-items:center;justify-content:center;">
+		<div class="container">
+			<span class="ball"></span>
+			<span class="ball"></span>
+			<span class="ball"></span>
+			<span class="ball"></span>
+			<span class="ball"></span>
+			<span class="ball"></span>
+		</div>
+	</div>
+	<style>
+		/* Scoped loader styles */
+		#page-loader .container { position: absolute; height: 50px; width: 135px; top: 0; right: 0; bottom: 0; left: 0; margin: auto; text-align: center; }
+		#page-loader .ball { width: 10px; position: relative; display: inline-block; margin: 1px; height: 10px; border-radius: 50%; background-color: silver; animation-name: jump; animation-duration: 0.6s; animation-delay: 0s; animation-iteration-count: infinite; animation-direction: alternate; }
+		#page-loader .ball:nth-child(1) { background-color: #004c9c; animation-delay: 0.1s; }
+		#page-loader .ball:nth-child(2) { background-color: #00a8e5; animation-delay: 0.2s; }
+		#page-loader .ball:nth-child(3) { background-color: #4b8b01; animation-delay: 0.3s; }
+		#page-loader .ball:nth-child(4) { background-color: #ffe302; animation-delay: 0.4s; }
+		#page-loader .ball:nth-child(5) { background-color: #ff7f1a; animation-delay: 0.5s; }
+		#page-loader .ball:nth-child(6) { background-color: #ff0027; animation-delay: 0.6s; }
+		@keyframes jump { 0% { transform: scaleY(0.9); } 100% { transform: translateY(-30px); } }
+	</style>
 	<div class="body">
 		<header id="header" class="header-transparent header-effect-shrink"
 			data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
@@ -192,7 +216,7 @@
 									</span> -->
 								</h1>
 								<h1 class="text-color-light font-weight-extra-bold font-weight500 text-12 line-height-1 mb-2 appear-animation mb-4" data-appear-animation="blurIn" data-appear-animation-delay="1000" data-plugin-options="{'minWindowWidth': 0}">Leadership Experiences</h1>
-								<img src="img/logos/banner-logo.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
+								<img src="img/logos/banner-logo.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" fetchpriority="high" decoding="async" />
 								<!-- <p class="text-4 text-color-light font-weight-light opacity-7 mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 2000, 'minWindowWidth': 0}">Check out our options and features</p> -->
 							</div>
 						</div>
@@ -288,7 +312,7 @@
 					</div>
 					<div class="row mt-30">
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-2.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-2.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Integral Coaching</h4>
 									<a href="integral-coaching-details.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -296,7 +320,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-1.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-1.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Leadership Solutions</h4>
 									<a href="leadership-solutions-details.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -304,7 +328,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-3.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-3.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Leadership Referral</h4>
 									<a href="leadership-referral.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -312,7 +336,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-11.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-11.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Transition Partnership</h4>
 									<a href="confidential-personal-transition.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -320,7 +344,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-6.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-6.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Family Business Advisory</h4>
 									<a href="family-business-advisory.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -328,7 +352,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-7.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-7.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>HR Leadership Interventions</h4>
 									<a href="hr-leadership-interventions.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -336,7 +360,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-8.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-8.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Leadership Interview's as a Service</h4>
 									<a href="leadership-interview-service.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -344,7 +368,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-10.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-10.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Start-Up & Employee Experience Practice</h4>
 									<a href="startup-employee-exp-practice.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -352,7 +376,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 col-12">
-							<div class="service-block"><img src="img/content/business/service-9.jpg" alt="img">
+							<div class="service-block"><img src="img/content/business/service-9.jpg" alt="img" loading="lazy" decoding="async">
 								<div class="service-block-content">
 									<h4>Offerings to Individual <br>Leaders</h4>
 									<a href="individual-offering.html" class="service-block-content-button"><i class="fas fa-arrow-right"></i></a>
@@ -500,34 +524,43 @@
 	</div>
 
 	<!-- Vendor -->
-	<script src="vendor/jquery/jquery.min.js"></script>
-	<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
-	<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
-	<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-	<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
-	<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
-	<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
-	<script src="vendor/lazysizes/lazysizes.min.js"></script>
-	<script src="vendor/isotope/jquery.isotope.min.js"></script>
-	<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
-	<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-	<script src="vendor/vide/jquery.vide.min.js"></script>
-	<script src="vendor/vivus/vivus.min.js"></script>
+	<script src="vendor/jquery/jquery.min.js" defer></script>
+	<script src="vendor/jquery.appear/jquery.appear.min.js" defer></script>
+	<script src="vendor/jquery.easing/jquery.easing.min.js" defer></script>
+	<script src="vendor/jquery.cookie/jquery.cookie.min.js" defer></script>
+	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js" defer></script>
+	<!-- Removed missing vendor files to avoid 404s: jquery.validate, jquery.easypiechart, jquery.gmap, lazysizes, magnific-popup, vivus -->
+	<script src="vendor/isotope/jquery.isotope.min.js" defer></script>
+	<script src="vendor/owl.carousel/owl.carousel.min.js" defer></script>
+	<script src="vendor/vide/jquery.vide.min.js" defer></script>
 
 	<!-- Theme Base, Components and Settings -->
-	<script src="js/theme.js"></script>
+	<script src="js/theme.js" defer></script>
 
-	<!-- Circle Flip Slideshow Script -->
-	<script src="vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script>
+	<!-- Circle Flip Slideshow Script removed to avoid 404 -->
 	<!-- Current Page Views -->
-	<script src="js/views/view.home.js"></script>
+	<script src="js/views/view.home.js" defer></script>
 
 	<!-- Theme Custom -->
-	<script src="js/custom.js"></script>
+	<script src="js/custom.js" defer></script>
 
 	<!-- Theme Initialization Files -->
-	<script src="js/theme.init.js"></script>
+	<script src="js/theme.init.js" defer></script>
+
+	<!-- Hide loader when page is ready -->
+	<script>
+	(function() {
+	  var hide = function() {
+	    var el = document.getElementById('page-loader');
+	    if (el) el.style.display = 'none';
+	  };
+	  if (document.readyState === 'complete') {
+	    hide();
+	  } else {
+	    window.addEventListener('load', hide);
+	  }
+	})();
+	</script>
 
 </body>
 
